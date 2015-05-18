@@ -1,0 +1,2 @@
+# TerrariaCraft
+Minecraft Resource Pack
